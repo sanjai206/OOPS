@@ -1,22 +1,3 @@
-// Sample Input:
-
-// 3
-// 5 2 1
-
-// Sample Output:
-
-// 8
-
-// Sample Input:
-
-// 2 
-
-// 1  g
-
-// Sample Output:
-
-// You entered bad data.
-
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
